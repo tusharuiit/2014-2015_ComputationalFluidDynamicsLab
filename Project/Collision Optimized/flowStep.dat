@@ -1,0 +1,13 @@
+problem     flowStep
+xlength 	50
+ylength 	30
+zlength		30
+iProc   3
+jProc   3
+kProc   3
+timesteps 10000
+timestepsPerPlotting 100
+velocityInflowX	0.05
+velocityInflowY	0.0
+velocityInflowZ	0.0
+tau 	0.6

@@ -1,0 +1,10 @@
+problem     drivenCavity
+xlength 	25
+ylength 	30
+zlength		10
+timesteps 1000
+timestepsPerPlotting 10
+velocityWallX 0.01
+velocityWallY 0.0
+velocityWallZ 0.0
+tau 1.2

@@ -1,0 +1,14 @@
+problem     tiltedPlate
+pgmInput    tiltedPlate.pgm
+xlength 	490
+ylength 	210
+zlength		1
+iProc       3
+jProc       3
+kProc       1
+timesteps 20000
+timestepsPerPlotting 200
+tau 0.59
+velocityInflowX 0.035
+velocityInflowY 0.0
+velocityInflowZ 0.0

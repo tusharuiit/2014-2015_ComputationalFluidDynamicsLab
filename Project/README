@@ -1,0 +1,8 @@
+In these two subfolders our optimized versions for both memory layouts can be found.
+In the LBDefinitions.h file several flags can be set before compiling. Currently they are
+set so that every scenario can be simulated and the corresponding output is put
+into the Paraview subfolder. 
+
+In order to achieve the same results we did in the documentation, the flags have to be
+set accordingly. The binary in this folder can be used to convert the binary data generated
+when using the _MPI_VTK_ flag  to .csv files which can than be read in Paraview.

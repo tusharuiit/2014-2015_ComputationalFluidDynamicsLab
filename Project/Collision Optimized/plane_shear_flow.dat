@@ -1,0 +1,11 @@
+problem     planeShearFlow
+xlength 	20
+ylength 	8
+zlength		8
+iProc       3
+jProc       3
+kProc       3
+timesteps 5000
+timestepsPerPlotting 10
+pressureIn 0.005
+tau 1.8

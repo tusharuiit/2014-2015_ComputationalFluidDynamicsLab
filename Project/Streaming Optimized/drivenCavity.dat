@@ -1,0 +1,13 @@
+problem     drivenCavity
+xlength 	20
+ylength 	20
+zlength	    20
+iProc       1
+jProc       1
+kProc       1
+timesteps 1000
+timestepsPerPlotting 10
+velocityWallX 0.01
+velocityWallY 0.0
+velocityWallZ 0.0
+tau 1.2
